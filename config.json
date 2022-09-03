@@ -1,0 +1,11 @@
+{
+  "prefix": "!",
+  
+  "embed_color": "#2F3136",
+  
+  "debug": true,
+
+  "bot_owners": [ "bot_owner_1", "bot_owner_2" ],
+  "controller_logs": "controller_logs",
+  "controller_dm": "controller_dm"
+}
